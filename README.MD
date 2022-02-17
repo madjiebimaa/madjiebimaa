@@ -15,5 +15,6 @@ I'm Computer Science Student at IPB University 🏫 from Indonesia 🇮🇩. I'm
 
 ### 📝 Get In Touch With Me!
 
-- [LinkedIn](https://www.linkedin.com/in/madjiebimaa)
-- [Instagram](https://www.instagram.com/madjiebimaa)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madjiebimaa)
+[![Email](https://img.shields.io/badge/email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=madjiebimaa@gmail.com&su=SUBJECT&body=BODY&bcc=madjiebimaa@gmail.com&tf=cm)
+[![Instagram](https://img.shields.io/badge/instagram-BC2A8D?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/madjiebimaa)
